@@ -11,3 +11,4 @@ This project makes use of Python PyOD to implement multivariate anomaly detectio
 The primary goal of this project is to not only detect anomalies in ECG signals but also predict the type of disease or health condition associated with these anomalies. The presence or absence of one anomaly is considered independently from other anomalies, ensuring that all potential issues are thoroughly assessed. This project holds promise in improving healthcare diagnostics by automating the process of detecting abnormalities in ECG signals and providing valuable insights into potential health conditions.
 
 
+ 
