@@ -1,13 +1,12 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ {
 # Name             :    signals_Anomaly_Scorer
-# Authour          :    K. SrePadmashiny
-# Reviewer         :    Signals Professor
+# Author          :     Srepadmashiny K
+# Reviewer         :    Professor Manish Bhatt
 # Date             :    31-Oct-2023
-# Purpose          :    Signals Anomoly Detection Scoring
+# Purpose          :    Signals Anomaly Detection Scoring
 # Data             :    ECG Data from ecg kafka producer
 #                  :    
 #                  :    
-# Change History   :    
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Library s Begins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # import required libraries
 import pickle
