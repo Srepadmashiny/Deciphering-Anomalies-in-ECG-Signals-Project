@@ -13,7 +13,7 @@ This project makes use of Python PyOD to implement multivariate anomaly detectio
 
 **Histogram-Based Outlier Detection:** The project employs histogram-based outlier detection as a core technique. This method is favored for its effectiveness in identifying anomalies in ECG data. By utilizing histograms, it can capture irregular patterns and fluctuations within the signals, contributing to the accuracy of anomaly detection.
 
-The primary goal of this project is to not only detect anomalies in ECG signals but also predict the type of disease or health condition associated with these anomalies. The presence or absence of one anomaly is considered independently from other anomalies, ensuring that all potential issues are thoroughly assessed. This project holds promise in improving healthcare diagnostics by automating the process of detecting abnormalities in ECG signals and providing valuable insights into potential health conditions.
+**The primary goal of this project** is to not only detect anomalies in ECG signals but also predict the type of disease or health condition associated with these anomalies. The presence or absence of one anomaly is considered independently from other anomalies, ensuring that all potential issues are thoroughly assessed. This project holds promise in improving healthcare diagnostics by automating the process of detecting abnormalities in ECG signals and providing valuable insights into potential health conditions.
 
 
  
