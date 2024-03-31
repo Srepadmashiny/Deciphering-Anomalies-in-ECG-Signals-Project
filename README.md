@@ -2,6 +2,7 @@
 ________________________________________________________________________________________________________________________________________________________________
 # Project Description
 In my project I have utilized multivariate anomaly detection using the histogram based outlier detection. The terms of significance have been explained below:
+
 **Anomaly Detection :** Anomaly detection is a technique that identifies abnormal patterns or outliers within a dataset. In the context of this project, it is used to detect irregularities in ECG (Electrocardiogram) signals, which can indicate potential health issues.
 
 **Multivariate Anomaly Detection :** Multivariate anomaly detection is a method that assesses anomalies by considering multiple variables simultaneously, making it suitable for complex datasets with interconnected features. In this project, it has been applied to ECG signals for enhanced accuracy.
